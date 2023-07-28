@@ -1,0 +1,11 @@
+C:\Users\Wex_2\source\repos\risg\risg\bin\Debug\risg.exe.config
+C:\Users\Wex_2\source\repos\risg\risg\bin\Debug\risg.exe
+C:\Users\Wex_2\source\repos\risg\risg\bin\Debug\risg.pdb
+C:\Users\Wex_2\source\repos\risg\risg\obj\Debug\risg.csproj.AssemblyReference.cache
+C:\Users\Wex_2\source\repos\risg\risg\obj\Debug\risg.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wex_2\source\repos\risg\risg\obj\Debug\risg.Form1.resources
+C:\Users\Wex_2\source\repos\risg\risg\obj\Debug\risg.Properties.Resources.resources
+C:\Users\Wex_2\source\repos\risg\risg\obj\Debug\risg.csproj.GenerateResource.cache
+C:\Users\Wex_2\source\repos\risg\risg\obj\Debug\risg.csproj.CoreCompileInputs.cache
+C:\Users\Wex_2\source\repos\risg\risg\obj\Debug\risg.exe
+C:\Users\Wex_2\source\repos\risg\risg\obj\Debug\risg.pdb
